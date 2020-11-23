@@ -1,0 +1,10 @@
+{
+    "agency": "DOE",
+    "contact_email": "doecode@osti.gov",
+    "output_path": "/prod/osti/osti/content/doecode/uploads/codegov",
+
+    "DOE CODE": {
+        "url": "http://lxapp2:28080/doecodeapi/services/codegov/listrecords",
+        "api_key": "3oe10du42ctv8ueiamlfurp61ix1533929462843"
+    }
+}
